@@ -5,4 +5,4 @@ https://www.markdownguide.org/cheat-sheet/
 ##Amazing header
 :+1:
 :sparkle:
-![alt text](path-to-image-and-filename)
+
